@@ -9,8 +9,8 @@
 
 - 👯 I’m looking to collaborate on Freelancing
 
--🤝 I’m looking for help with MERN
-
+- 🤝 I’m looking for help with MERN
+  
 - 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **React,Tailwind,HTML,CSS,javascript**
