@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalpokharel" alt="ujjwalpokharel" /></a> </p>
 
-- 🔭 I’m currently working on **Human Resources Managment System**
+- 🔭 I’m currently working on **Channakya Software**
 
 - 🌱 I’m currently learning **Next js**
 
